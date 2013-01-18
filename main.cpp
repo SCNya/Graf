@@ -1,4 +1,4 @@
-//alpha 0.2 03.01.12 16:50 by AEffect
+//alpha 0.2 03.01.12 16:50 by Alexeenko Vsevolod
 #include "shapes.h"
 
 int main()
